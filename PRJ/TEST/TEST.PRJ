@@ -1,0 +1,10 @@
+TEST.PRG
+=
+PCSTART.O
+TEST.C
+;PCFLTLIB.LIB         ; note: the order of the librarys is significant !!
+;PCBGILIB.LIB
+PCSTDLIB.LIB
+PCEXTLIB.LIB
+PCTOSLIB.LIB
+;PCGEMLIB.LIB
